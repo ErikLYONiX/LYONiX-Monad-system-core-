@@ -190,8 +190,7 @@ The MONAD is the core foundation layer. All higher LYONiX products run on top of
 ---
 
 ## Author
-
-*(Your name / organization)*
+Erik L. Palmer 
 
 ---
 
