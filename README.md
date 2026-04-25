@@ -192,7 +192,9 @@ modify, merge, publish, distribute, sublicense, or sell
 this software or any derivative works, in whole or in 
 part, without explicit written permission from the author.
 
-For licensing inquiries: [your contact email]
+Proprietary — All Rights Reserved. See LICENSE file.
+
+For licensing inquiries: eriklyonpalmer@gmail.com
 ---
 
 ## Author
