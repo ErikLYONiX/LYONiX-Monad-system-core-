@@ -184,9 +184,15 @@ The MONAD is the core foundation layer. All higher LYONiX products run on top of
 ---
 
 ## License
+Copyright (c) 2024 Erik L. Palmer. All rights reserved.
 
-*(Specify your license here)*
+This source code is provided for viewing and evaluation 
+purposes only. No permission is granted to use, copy, 
+modify, merge, publish, distribute, sublicense, or sell 
+this software or any derivative works, in whole or in 
+part, without explicit written permission from the author.
 
+For licensing inquiries: [your contact email]
 ---
 
 ## Author
