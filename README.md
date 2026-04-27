@@ -79,7 +79,7 @@ python monad_core.py
 ## Quick Start
 
 ```python
-from monad_core import CoreEngine
+from python monad_core import CoreEngine
 
 engine = CoreEngine()
 
