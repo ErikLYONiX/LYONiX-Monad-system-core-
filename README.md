@@ -69,7 +69,7 @@ LYO is an **accounting unit for creative attribution** — modeled after ASCAP r
 
 ```bash
 # No external dependencies required for core engine
-python lyonix_p1_core_engine.py
+monad_core.py
 ```
 
 **Python 3.8+** required. Standard library only.
@@ -79,7 +79,7 @@ python lyonix_p1_core_engine.py
 ## Quick Start
 
 ```python
-from lyonix_p1_core_engine import CoreEngine
+from monad_core import CoreEngine
 
 engine = CoreEngine()
 
