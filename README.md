@@ -1,21 +1,13 @@
-# LYONiX Monad System Core
+# LYONiX
 
-**A cryptographic provenance engine** for tracking who created what, and when.
+Real-time AI Provenance & Derivative Detection
 
-It creates tamper-proof records of digital works (text, code, etc.), detects derivations, and supports fair attribution using a lightweight unit called LYO.
+## Overview
+LYONiX is a foundation for graph-based provenance tracking — identifying derivatives, lineage, and influence in digital content, especially AI-generated.
 
-### Why it matters
-Helps creators prove "I made it first" and helps AI companies prove they documented their training data — without revealing secret information.
+Built with Grok. I’m not a professional coder — this is the core geometry I’ve been developing.
 
-### Core Features
-- Cryptographic timestamping and chain integrity
-- Temporal ordering (proves what came first)
-- Derivation detection (similarity + time-based probability)
-- Simple attribution (LYO units)
-
-### Current Status
-Early prototype. Built with standard Python only (no heavy dependencies).
-
-GitHub repo created April 2026.
-
-More documents and examples (Notarization GTM, AI Compliance Engine) available upon request.
+## Demo
+```bash
+pip install numpy
+python lyonix_demo.py
