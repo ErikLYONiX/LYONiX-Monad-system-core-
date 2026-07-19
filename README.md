@@ -1,13 +1,18 @@
-# LYONiX
+# LYONiX - Monad Core System
 
-Real-time AI Provenance & Derivative Detection
+A geometric resonance-based intelligence layer built around a central Monad core.
 
-## Overview
-LYONiX is a foundation for graph-based provenance tracking — identifying derivatives, lineage, and influence in digital content, especially AI-generated.
+## Key Features
 
-Built with Grok. I’m not a professional coder — this is the core geometry I’ve been developing.
+- **Monad Geometric Engine**: Structured multi-scale pattern recognition
+- **Dimension Jump Routing**: Efficient hierarchical navigation
+- **MVP (Monad Vantage Point) Perspective**: Multi-perspective reasoning interface
+- **Resonance Optimization**: Enhanced efficiency and coherence
 
-## Demo
-```bash
-pip install numpy
-python lyonix_demo.py
+## Quick Start
+
+```python
+from lyonix.monad import MonadGeometricEngine
+
+engine = MonadGeometricEngine()
+result = engine.mvp_perspective(data, view="boundary")
