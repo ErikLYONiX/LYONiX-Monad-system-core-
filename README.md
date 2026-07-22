@@ -1,18 +1,32 @@
-# LYONiX - Monad Core System
+# LYONiX System SLS — Monad Core
 
-A geometric resonance-based intelligence layer built around a central Monad core.
+**Foundational Geometric Intelligence Engine**
 
-## Key Features
+The Monad Core is the central geometric reasoning system of the LYONiX System SLS. It enables multi-scale, multi-perspective analysis through dimension jumping, resonance optimization, and MVP (Monad Vantage Point) perspectives.
 
-- **Monad Geometric Engine**: Structured multi-scale pattern recognition
-- **Dimension Jump Routing**: Efficient hierarchical navigation
-- **MVP (Monad Vantage Point) Perspective**: Multi-perspective reasoning interface
-- **Resonance Optimization**: Enhanced efficiency and coherence
+## Core Features
+- Multi-scale geometric reasoning
+- Dimension Jump routing
+- Multi-Vantage Point (MVP) analysis
+- Resonance-based optimization
+
+## What Can Be Built on Top
+The Monad Core serves as a universal foundation for building specialized intelligence tiers:
+- Scientific Research Systems
+- Stock Prediction & Market Analysis
+- Weather Tracking & Climate Modeling
+- Advanced Mathematics & Physics Engines
+- Biology & Materials Science Applications
+- Security, Provenance & Encryption Layers
+- And many more domain-specific systems
 
 ## Quick Start
-
 ```python
-from lyonix.monad import MonadGeometricEngine
+from monad_core import MonadGeometricEngine
 
 engine = MonadGeometricEngine()
-result = engine.mvp_perspective(data, view="boundary")
+data = np.random.randn(100, 3)
+
+# Multi-perspective analysis
+views = engine.analyze_multi_view(data)
+print(views)
