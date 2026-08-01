@@ -1,3 +1,4 @@
+
 # LYONiX System SLS — Monad Core
 
 **Foundational Geometric Intelligence Engine**
@@ -10,7 +11,7 @@ The Monad Core is the central geometric reasoning system of the LYONiX System SL
 - Clean, extensible foundation for building specialized intelligence tiers.
 
 ## Quick Start
-See `examples/` folder for Jupyter notebooks with full demonstrations.
+See `examples/` folder for Jupyter notebooks with full demonstrations
 
 ## What Can Be Built on Top
 - Scientific Research Systems
